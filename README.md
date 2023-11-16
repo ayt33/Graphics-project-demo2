@@ -3,6 +3,6 @@ Renders a bicubic Bezier patch from a set of control points, and maps a wood gra
 
 Running the Project:
 
-    Start a local webs server: run "python3 -m http.server" in the project directory
-    Navigate to http://localhost:8000/ to view the project
-    Follow directions on the webpage to interact with the model
+    1. Start a local webs server: run "python3 -m http.server" in the project directory
+    2. Navigate to http://localhost:8000/ to view the project
+    3. Follow directions on the webpage to interact with the model
